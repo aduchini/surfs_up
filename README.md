@@ -16,7 +16,7 @@ As seen in the June vs. December statistics comparison above, we can see that:
 - There is a more dramatic difference for minimum temperatures than there is for maximum temperatures, between the two months.
 
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary
 
 Differences in temperature between the months of June and December appear to be driven by more frequent drops in temperature for the winter, while the average and maximum temperatures hover around similar values.
 
